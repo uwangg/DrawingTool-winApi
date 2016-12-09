@@ -2,13 +2,19 @@
 OnePage DrawingTool using WinApi, C++
 
 # Development period
-2016.11.14 ~ 2016.12.05
+2016.11.15 ~ 2016.12.05
+
+
 
 # developer
 uwangg
 
+
+
 # Development language
 C++, WinApi
+
+
 
 # Features
 - File Save & Load (XML & txt)
