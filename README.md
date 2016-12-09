@@ -1,16 +1,16 @@
 # DrawingTool_WinApi
 OnePage DrawingTool using WinApi, C++
 
-* Development period
+# Development period
 2016.11.14 ~ 2016.12.05
 
-* developer
+# developer
 uwangg
 
-* Development language
+# Development language
 C++, WinApi
 
-* Features
+# Features
 - File Save & Load (XML & txt)
 - Zoom in/Out (Mouse Wheel)
 - Panning (Mouse Right Button)
