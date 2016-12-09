@@ -1,5 +1,5 @@
 # uwangg's Drawing Tool like PowerPoint
-![drawing][./images/screenshots.png]
+![drawing][./images/screenshot.png]
 
 # DrawingTool_WinApi
 OnePage DrawingTool using WinApi, C++
