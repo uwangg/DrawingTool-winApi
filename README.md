@@ -1,20 +1,17 @@
+# uwangg's Drawing Tool like PowerPoint
+![drawing][./images/screenshots.png]
+
 # DrawingTool_WinApi
 OnePage DrawingTool using WinApi, C++
 
 # Development period
 2016.11.14 ~ 2016.12.04
 
-
-
 # developer
 uwangg
 
-
-
 # Development language
 C++, WinApi
-
-
 
 # Features
 - File Save & Load (XML & txt)
