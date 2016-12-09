@@ -22,7 +22,7 @@ using namespace std;
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 HINSTANCE g_hInst;
-LPWSTR lpszClass = L"PowerPointTest";
+LPWSTR lpszClass = L"uwangg's Drawing Tool";
 
 int fontHeight = 0;	// 문자열 높이
 

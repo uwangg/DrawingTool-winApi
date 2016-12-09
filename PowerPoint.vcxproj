@@ -38,6 +38,9 @@
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="screenshot.png" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{30F050F4-7394-44B2-8986-45BCCA3C00AE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
